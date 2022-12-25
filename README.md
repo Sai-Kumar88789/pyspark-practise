@@ -8,4 +8,4 @@ PySpark is a Spark library written in Python to run Python applications using Ap
 3. Spark supports Python, Scala, Java & R
 4. ANSI SQL compatibility in Spark.
 5. Spark uses in-memory(RAM) for computation.
-6. It support parallaization.
+6. It supports parallelization. 
